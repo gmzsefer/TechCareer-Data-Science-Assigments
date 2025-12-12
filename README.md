@@ -2,7 +2,7 @@
 
 This repository contains my assignments from the TechCareer Data Science Bootcamp.
 
-##  Repository Structure
+## 📁 Repository Structure
 
 Ödev 1/
 ├── country.csv
@@ -11,6 +11,7 @@ This repository contains my assignments from the TechCareer Data Science Bootcam
 Ödev 2/
 ├── 50_Startups.csv
 ├── Veri_Gorsellestirme_odevi.ipynb
+
 
 
 
