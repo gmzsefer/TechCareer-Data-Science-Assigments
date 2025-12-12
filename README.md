@@ -4,7 +4,6 @@ This repository contains my assignments from the TechCareer Data Science Bootcam
 
 ##  Repository Structure
 ```
-📁 Repository Structure
 Ödev 1/
 ├── country.csv
 ├── Veri_filtreleme_siralama_projesi.ipynb
