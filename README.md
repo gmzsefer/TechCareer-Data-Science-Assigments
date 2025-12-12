@@ -2,7 +2,7 @@
 
 This repository contains my assignments from the TechCareer Data Science Bootcamp.
 
-## 📂 Repository Structure
+## Repository Structure
 Ödev 1
 ├── country.csv
 └── Veri_filtreleme_siralama_projesi.ipynb
@@ -10,7 +10,7 @@ This repository contains my assignments from the TechCareer Data Science Bootcam
 ├── 50_Startups.csv
 └── Veri_Görselleştirme_odevi.ipynb
 
-## 📘 Contents
+## Contents
 
 ### Ödev 1 – Data Filtering & Sorting  
 - Data loading  
@@ -23,7 +23,7 @@ This repository contains my assignments from the TechCareer Data Science Bootcam
 - Bar charts (Average profit by state)  
 - Boxplots (Comparing R&D, Administration, Marketing Spend)  
 
-## 🛠 Technologies
+## Technologies
 - Python  
 - Pandas  
 - Matplotlib  
@@ -31,6 +31,6 @@ This repository contains my assignments from the TechCareer Data Science Bootcam
 
 ---
 
-## 🎉 Status
+## Status
 
 Completed and uploaded successfully.
